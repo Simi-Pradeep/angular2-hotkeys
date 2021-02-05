@@ -1,5 +1,7 @@
 # angular2-hotkeys
 Angular 9 and Ivy Compatible. Older versions might work but isn't officially tested.
+This forked branch is including the fix for mousetrap fix with resolved compatability issues with angular 10
+
 ## Installation
 
 To install this library, run:
